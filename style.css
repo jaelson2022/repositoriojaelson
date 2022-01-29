@@ -1,0 +1,32 @@
+html {
+  background-color: black;
+}
+
+body {
+  text-align: center;
+}
+p {
+  color: #fffffff5;
+  margin: 25px;
+}
+
+input {
+  margin: 10px;
+}
+
+button {
+  margin: 20px;
+}
+
+a {
+  color: white;
+}
+
+img {
+  width: 300px;
+  margin: 100px;
+}
+
+div button {
+  background-color: blue;
+}
